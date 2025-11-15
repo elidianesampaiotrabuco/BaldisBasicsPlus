@@ -1,2 +1,1 @@
-# BaldisBasicsPlus
-More games for school.
+A web port of Baldi's Basics Plus. Not by me.
